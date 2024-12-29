@@ -33,17 +33,17 @@ This Bash script allows you to expose a local or remote web server to the intern
   
     ```
     ```sh
-    cd expose-localhost-with-shellscript
+    cd expose-local-with-shellscript
     ```
 
 2. Make the script executable:
     ```sh
-    chmod +x expose-local-with-shellscript.sh
+    chmod +x expose-localhost.sh
     ```
 
 3. Run the script:
     ```sh
-    ./expose-local-with-shellscript.sh
+    ./expose-localhost.sh
     ```
     
 ## Notes
