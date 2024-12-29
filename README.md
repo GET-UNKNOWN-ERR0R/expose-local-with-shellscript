@@ -8,7 +8,7 @@ This repository contains a simple shell script that will expose your localhost s
 
 # Expose Local or Remote Server by tunneling
 
-This Bash script allows you to expose a local or remote web server to the internet. The script prompts you to input a URL,PORT and then sets up a tunnel to make the server accessible publicly.
+This Bash script allows you to expose a local or remote web server to the internet. The script prompts you to input a URL and then sets up a tunnel to make the server accessible publicly.
 
 ## Prerequisites
 
